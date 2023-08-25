@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingsOfEagles
 - 👀 I’m interested in Machne Learning
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on Machine learning Projects
+- 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 Available on Reddit u/kingsOfEagles , Insta sha7.baz 
